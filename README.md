@@ -89,7 +89,7 @@ Windows                  1 hr 54 mins        ███████████�
 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in HTML** 
 
 ```text
 HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
