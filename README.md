@@ -32,10 +32,10 @@
 
 <hr>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=minoveaz&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minoveaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=expertkidad&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expertkidad&layout=compact)](https://github.com/expertkidad/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=expertkidad)
 
 <hr>
 
