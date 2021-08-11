@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
- and Databases (MongoDB). I like to use GCP for Cloud Solutions. :octocat:
 
 🚀 Some of my main projects:
 
 - 🔭 I’m currently working
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=expertkidad&repo=sampleapp)](https://github.com/expertkidad/sampleapp)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=expertkidad&repo=TerminalImageViewer)](https://github.com/expertkidad/TerminalImageViewer)
 
@@ -23,12 +20,8 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 <hr>
 
