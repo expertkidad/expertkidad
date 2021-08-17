@@ -6,7 +6,7 @@
 - 🔭 I’m currently working
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=expertkidad&repo=TerminalImageViewer)](https://github.com/expertkidad/TerminalImageViewer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=expertkidad&repo=C-r)](https://github.com/expertkidad/C-r)
 
 ## Follow Me
 
