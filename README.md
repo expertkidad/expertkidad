@@ -5,16 +5,6 @@
 
 - 🔭 I’m currently working
 
-
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=expertkidad&repo=C-)](https://github.com/expertkidad/C-)
-
-## Follow Me
-
-
-[![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](tejasks05@gmail.com)
-<hr>
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -47,64 +37,6 @@ Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://ope
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
-🌆 Daytime    37 commits     █████░░░░░░░░░░░░░░░░░░░░   21.39% 
-🌃 Evening    119 commits    █████████████████░░░░░░░░   68.79% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       31 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.92% 
-Tuesday      35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.23% 
-Wednesday    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-Thursday     34 commits     █████░░░░░░░░░░░░░░░░░░░░   19.65% 
-Friday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
-Saturday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.36% 
-Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.94%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-SQL                      1 hr 54 mins        █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████░░░░░░░░   68.02% 
-Ssms                     36 mins             ████████░░░░░░░░░░░░░░░░░   31.98%
-
-🐱‍💻 Projects: 
-Process Mining Queries   1 hr 19 mins        █████████████████░░░░░░░░   69.87% 
-Unknown Project          34 mins             ███████░░░░░░░░░░░░░░░░░░   30.13%
-
-💻 Operating System: 
-Windows                  1 hr 54 mins        █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   30.00% 
-JavaScript               10 repos             ████░░░░░░░░░░░░░░░░░░░░░   65.00% 
-CSS                      1 repo              █████████████   5.88% 
-Python                   5 repo              █████████████████████████    100.00%
-HTML                     10 repo           █████████████████████████     100.36
-
-```
-
-
-**Timeline**
-<hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
