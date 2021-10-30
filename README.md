@@ -19,6 +19,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=expertkidad&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expertkidad&layout=compact)](https://github.com/expertkidad/github-readme-stats)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=expertkidad)
 
