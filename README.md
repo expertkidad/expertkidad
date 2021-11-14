@@ -20,7 +20,7 @@
 
 ![Little Coder Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=expertkidad&layout=compact&theme=radical)
 
-![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
+![Little Coder,s github activity graph](https://activity-graph.herokuapp.com/graph?username=expertkidad&theme=dracula)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <img align="center" src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg" />
 
